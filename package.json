@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "dockerlint": "^0.3.1"
+  },
+  "scripts": {
+    "test": "dockerlint"
+  },
+  "license": "UNLICENSED"
+}
