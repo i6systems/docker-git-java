@@ -18,6 +18,7 @@ RUN set -x\
   wget\
  && apk --no-cache add\
   git\
+  bash\
   openssh-client\
   py2-openssl\
   python2\
