@@ -1,4 +1,4 @@
-FROM openjdk:8-jre-alpine
+FROM openjdk:8-jdk-alpine
 
 ENV HOME=/\
  CLOUDSDK_PYTHON_SITEPACKAGES=1\
